@@ -14,3 +14,6 @@ fs.writeFile('result.txt', result, (err) => {
   if (err) throw err;
   console.log('結果を result.txt に書き出しました。');
 });
+
+
+saaaaaaaaa
