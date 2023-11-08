@@ -1,0 +1,15 @@
+{
+    "name": "client_a",
+    "version": "1.0.0",
+    "description": "Node.js project for client_a",
+    "main": "main.js",
+    "scripts": {
+        "dev": "node main.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "fs": "^0.0.1-security"
+    }
+}
